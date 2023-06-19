@@ -1,0 +1,18 @@
+C:\Users\Dungeon master\Desktop\pen is\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.AssemblyReference.cache
+C:\Users\Dungeon master\Desktop\pen is\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dungeon master\Desktop\pen is\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Dungeon master\Desktop\pen is\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.GenerateResource.cache
+C:\Users\Start\Desktop\фгня\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.AssemblyReference.cache
+C:\Users\Start\Desktop\фгня\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Start\Desktop\фгня\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Start\Desktop\фгня\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.GenerateResource.cache
+C:\Users\Geo\Desktop\Лабы 2 сем\Лаба 5-6 (музыкалка)\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Лабы 2 сем\Лаба 5-6 (музыкалка)\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\Desktop\Лабы 2 сем\Лаба 5-6 (музыкалка)\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Geo\Desktop\Лабы 2 сем\Лаба 5-6 (музыкалка)\LAB5-6\WindowsFormsApplication11\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.GenerateResource.cache
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Debug\WindowsFormsApplication11.vcxproj.GenerateResource.cache
+C:\Users\Geo\Desktop\MusicLab\Debug\MyDialog2.h
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Debug\WindowsFormsApplication11.MyDialog2.resources

@@ -1,0 +1,8 @@
+C:\Users\Geo\source\repos\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.AssemblyReference.cache
+C:\Users\Geo\source\repos\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\source\repos\My_polugon\My_polugon\x64\Debug\Mypolugon.MyForm.resources
+C:\Users\Geo\source\repos\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.GenerateResource.cache
+C:\Users\Geo\Desktop\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\Desktop\My_polugon\My_polugon\x64\Debug\Mypolugon.MyForm.resources
+C:\Users\Geo\Desktop\My_polugon\My_polugon\x64\Debug\My_polugon.vcxproj.GenerateResource.cache

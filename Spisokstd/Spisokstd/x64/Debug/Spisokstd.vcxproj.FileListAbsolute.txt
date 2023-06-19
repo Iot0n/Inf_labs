@@ -1,0 +1,8 @@
+C:\Users\Geo\source\repos\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.AssemblyReference.cache
+C:\Users\Geo\source\repos\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\source\repos\Spisokstd\Spisokstd\x64\Debug\Spisokstd.MyForm.resources
+C:\Users\Geo\source\repos\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.GenerateResource.cache
+C:\Users\Geo\Desktop\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\Desktop\Spisokstd\Spisokstd\x64\Debug\Spisokstd.MyForm.resources
+C:\Users\Geo\Desktop\Spisokstd\Spisokstd\x64\Debug\Spisokstd.vcxproj.GenerateResource.cache

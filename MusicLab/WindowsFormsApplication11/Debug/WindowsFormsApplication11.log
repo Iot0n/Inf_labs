@@ -1,0 +1,15 @@
+﻿cl : командная строка  warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  WindowsFormsApplication11.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\yvals.h(250): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(613,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(768,22): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(802,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(830,22): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(854,22): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(955,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(1029,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(1086,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(1119,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\MusicLab\WindowsFormsApplication11\Form1.h(1144,20): warning C4101: e: неиспользованная локальная переменная
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WindowsFormsApplication11.vcxproj -> C:\Users\Geo\Desktop\MusicLab\Debug\WindowsFormsApplication11.exe

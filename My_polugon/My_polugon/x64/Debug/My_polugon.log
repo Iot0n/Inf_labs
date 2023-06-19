@@ -1,0 +1,37 @@
+﻿  MyForm.cpp
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(420,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(422,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(446,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(445,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(495,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(496,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(526,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(527,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(535,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(536,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(658,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(662,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(652,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(682,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(686,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(676,20): warning C4101: e: неиспользованная локальная переменная
+  Source.cpp
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(420,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(422,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(446,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(445,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(495,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(496,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(526,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(527,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(535,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(536,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(658,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(662,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(652,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(682,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(686,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Geo\Desktop\My_polugon\My_polugon\MyForm.h(676,20): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  Foo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  My_polugon.vcxproj -> C:\Users\Geo\Desktop\My_polugon\x64\Debug\My_polugon.exe
